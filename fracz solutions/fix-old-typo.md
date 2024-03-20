@@ -1,6 +1,5 @@
 # Solution to fix old typo
-I'll just write the steps to this one... it was very tough
-
+In this exercise we need to rebase to a previous commit, then modify the last commit, then rebase back to the latest commit.
 # Steps
 1) git rebase -i
 2) change the top commit to edit in the file that opened in text editor then close the file
